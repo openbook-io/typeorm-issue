@@ -5,7 +5,7 @@
     "pg": "^7.17.1",
     "ts-node": "^8.5.0",
     "type-graphql": "^0.17.6",
-    "typeorm": "^0.2.22",
+    "typeorm": "^0.2.25",
     "typeorm-typedi-extensions": "^0.2.3"
   },
   "devDependencies": {
