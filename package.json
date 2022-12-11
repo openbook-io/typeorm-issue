@@ -1,7 +1,7 @@
 {
   "name": "typeorm-issue1",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pg": "^7.17.1",
     "ts-node": "^8.5.0",
     "type-graphql": "^0.17.6",
